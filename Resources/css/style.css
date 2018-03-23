@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  font-family: Verdana, sans-serif;
+  font-family: "Verdana", sans-serif;
   text-align: center;
   color: white;
 }
@@ -27,5 +27,4 @@ p {
 
 .footer {
   text-align: right;
-  color: gray;
 }
